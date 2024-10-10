@@ -1,6 +1,7 @@
 <%@page contentType="text/html; charset=utf-8" %>
 <html>
 <head>
+<!-- 모델1 -->
 <title>사용자 관리(UserMan1)</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel=stylesheet href="${pageContext.request.contextPath}/css/user.css" type="text/css">
